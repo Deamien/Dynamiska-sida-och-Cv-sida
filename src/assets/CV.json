@@ -1,0 +1,65 @@
+{
+	"fields": {
+		"name": "Christian Abdulnour",
+		"occupation": "Passionerad IT Student",
+		"profile": {
+			"description": "Redo att använda mina färdigheter och min passion för att hjälpa en verksamhet framåt. Skicklig på teknik, bra inom många olika aspekter av sociala medier och goda programmeringskunskaper. Har en positiv attityd och viljan samt motivationen att lära sig nya kunskaper inom olika yrken."
+		},
+		"contact": {
+			"address": "Klackvägen 15, 126 39, Stockholm, Hägersten, Sweden",
+			"phone": "0728596350",
+			"email": "christianabdulnour@gmail.com"
+		},
+		"work_experience": [
+			{
+				"position": "Försäljare",
+				"company": "Active Sales Sweden AB",
+				"location": "Stockholm",
+				"start_date": "Maj 2021",
+				"end_date": "Februari 2022",
+				"description": "Ringde kunder och sålde el avtal."
+			},
+			{
+				"position": "Servitris och kassör",
+				"company": "Oskars Pizzeria",
+				"location": "Solna",
+				"start_date": "April 2022",
+				"end_date": "December 2022",
+				"description": "Jobbade i kassan, tog ordrar från kunder, arbetade i baren och hjälpte till i köket vid behov."
+			}
+		],
+		"education": [
+			{
+				"degree": "Ekonomi- juridik Gymnasieexamen",
+				"institution": "Cybergymnasiet",
+				"location": "Stockholm",
+				"start_date": "2018",
+				"end_date": "2021",
+				"description": "Utexaminerad med goda betyg."
+			},
+			{
+				"degree": "Fullstackutvecklare.Net",
+				"institution": "Chas Academy",
+				"location": "Stockholm",
+				"start_date": "September 2023",
+				"end_date": "Maj 2025",
+				"description": ""
+			}
+		],
+		"skills": [
+			"Kreativ problemlösning",
+			"Kundservice",
+			"Försäljning",
+			"Förmåga att arbeta under press",
+			"Datorfärdigheter",
+			"Lättlärd",
+			"Truckkot A1-4- b1"
+		],
+		"languages": [
+			"Engelska",
+			"Arabiska",
+			"Svenska"
+		],
+		"references": "Referenser lämnas ut vid begäran."
+    }   
+}    

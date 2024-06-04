@@ -1,0 +1,45 @@
+.portfolio {
+    padding: 20px;
+}
+
+.portfolio ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.portfolio li {
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.portfolio li h2, 
+.portfolio li p 
+{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    margin: 0;
+    margin-top: 0;
+    padding: 0;
+}
+
+.portfolio li a {
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+.portfolio li a:hover {
+    text-decoration: underline;
+}
+
+Footer
+{
+    position:  absolute;
+    bottom: auto;
+    text-align: center;
+    width: 100%;
+}
