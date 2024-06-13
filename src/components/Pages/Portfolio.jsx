@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import '../css/portfolio.css';
+import '../eastereggs.js';
+
 
 const Portfolio = () => {
     const [projects, setProjects] = useState([]);
@@ -48,7 +50,7 @@ const Portfolio = () => {
                     </ul>
                 </body>
 
-                <footer>
+                <footer className='Portfoliofooter'>
                     <p>Copyright © 2024 Christian Abdulnour. All Rights Reserved.</p>
                 </footer>
             </main>

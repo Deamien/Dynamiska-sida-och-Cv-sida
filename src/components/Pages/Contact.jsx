@@ -1,5 +1,7 @@
 import React from 'react';
 import '../css/Contact.css';
+import '../eastereggs.js';
+
 
 const Contact = () => {
     return (
@@ -14,7 +16,7 @@ const Contact = () => {
                 +46728596350
               </p>
           </body>
-          <footer>
+          <footer className='footerContact'>
             <p>Copyright © 2024 Christian Abdulnour. All Rights Reserved.</p>
           </footer>
         </main>

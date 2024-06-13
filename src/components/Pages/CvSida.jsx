@@ -1,7 +1,7 @@
 import React from 'react';
 import '../css/CvSida.css';
 import data from '../../assets/CV.json';
-
+import '../eastereggs.js';
 
 const CV = () => {
     const fields = data.fields;
@@ -70,7 +70,7 @@ const CV = () => {
                         <p>{fields.references}</p>
                     </section>
                 </body>
-                <footer>
+                <footer className='CvSidafooter'>
                     <p>Copyright © 2024 Christian Abdulnour. All Rights Reserved.</p>
                 </footer>
             </main>
