@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 .portfolio {
     padding: 20px;
 }
@@ -17,7 +19,6 @@
 .portfolio li h2, 
 .portfolio li p 
 {
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
     margin: 0;
     margin-top: 0;
     padding: 0;

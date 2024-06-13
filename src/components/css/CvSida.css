@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
 .CV{
     padding: 30px;; 
 }
@@ -7,12 +9,12 @@
 }
 
 h1,h2,h3,h4
-    {
+{
     
-    padding:0;
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+padding:0;
+    
 
-    }
+}
 
 
 
@@ -22,8 +24,6 @@ h1,h2,h3,h4
 .cv4 p,
 .cv5 p,
 .cv6 p {
-
-    @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
     padding: 0;
     text-align: center;
     margin-bottom: 10px;
