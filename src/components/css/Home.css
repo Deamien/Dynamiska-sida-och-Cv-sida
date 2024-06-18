@@ -37,6 +37,7 @@
     border: 1px solid #888;
     width: 60%;
     text-align: center;
+    position: relative;
   }
 
 .close {
@@ -44,9 +45,10 @@
     font-size: 28px;
     font-weight: bold;
     position: absolute;
-    bottom: 64%;
-    left: 80%;
+    right: 6px;
+    bottom: 115px;
 }
+
 
 .close:hover,
 .close:focus {
