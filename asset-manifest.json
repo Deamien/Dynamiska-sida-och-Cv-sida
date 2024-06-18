@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dynamiska-sida-och-Cv-sida/static/css/main.c83cdfad.css",
+    "main.js": "/Dynamiska-sida-och-Cv-sida/static/js/main.553a1b4d.js",
+    "static/media/1682003379230.jpg": "/Dynamiska-sida-och-Cv-sida/static/media/1682003379230.ec2fb940bbf3e505f233.jpg",
+    "index.html": "/Dynamiska-sida-och-Cv-sida/index.html",
+    "main.c83cdfad.css.map": "/Dynamiska-sida-och-Cv-sida/static/css/main.c83cdfad.css.map",
+    "main.553a1b4d.js.map": "/Dynamiska-sida-och-Cv-sida/static/js/main.553a1b4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c83cdfad.css",
+    "static/js/main.553a1b4d.js"
+  ]
+}
