@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import {Routes, Route} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import Home from './components/Pages/Home';
 import About from './components/Pages/About';
@@ -9,7 +9,6 @@ import CvSida from './components/Pages/CvSida';
 
 function App() {
   return (
-    <Router>
       <div className="App">
         <Navbar />
         <Routes>
@@ -20,7 +19,6 @@ function App() {
           <Route path="/cv" element={<CvSida />} />
         </Routes>
       </div>
-    </Router>
   );
 }
 
